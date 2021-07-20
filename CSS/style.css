@@ -72,6 +72,10 @@ p{
     font-size: 20px;
     margin-top: -20px;
 }
-
+.work{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
 
 
