@@ -88,5 +88,29 @@ p{
     flex-direction: row;
     justify-content: space-evenly;
 }
-
-
+/*Contact Page*/
+.contact-title{
+    color: #f3603A;
+    text-align: center;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.method{
+    text-align: center;
+    align-items: center;
+    height: 400px;
+    width: 400px;
+}
+.phone{
+    background-color: #D12C23;
+}
+.email{
+    background-color: #f3603A;
+}
+.Linkedin{
+    background-color: #FE8D7B;
+}
