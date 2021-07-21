@@ -1,27 +1,13 @@
-/*Work Page*/
 .logo{
     width: 20%;
     height: 20%;
 }
 .navlist{
-    padding-top: 20px;
-    padding-bottom: 20px;
     display: flex;
     flex-direction: row;
     list-style-type: none;
     justify-content: space-evenly;
-    background-color: black;
-    width: 100%;
-    text-decoration: none; 
 }
-.nav-link{
-    color: white;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 600;
-    font-size: 28px; 
-    text-decoration: none;
-}
-
 .hero{
     margin-bottom: 160px;
 }
@@ -36,7 +22,6 @@ h1{
     font-size: 48px;
     font-weight: 800;
 }
-  
 .intro-body{
     font-family: 'Encode Sans Semi Condensed', sans-serif;
     font-size: 24px;
@@ -87,30 +72,10 @@ p{
     font-size: 20px;
     margin-top: -20px;
 }
-
 .work{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
 }
-
-/*Contact Page*/
-.contact-title{
-    text-align: center;
-    font-family: 'Raleway', sans-serif;
-    font-size: 48px;
-    font-weight: 800;
-    color: #f3603A;
-}
-.phone{
-    background-color: #D12C23;
-}
-.email{
-    background-color: #f3603A;
-}
-.Linkedin{
-    background-color: #FeBD78;
-}
-
 
 
