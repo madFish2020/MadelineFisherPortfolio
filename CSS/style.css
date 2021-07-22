@@ -33,7 +33,7 @@ h1{
     font-size: 48px;
     font-weight: 800;
 }
-.intro-body{
+.body{
     font-family: 'Encode Sans Semi Condensed', sans-serif;
     font-size: 24px;
    
@@ -77,6 +77,12 @@ h2{
     margin-left: 40px;
     margin-right: 40px;
 }
+.inter-design{
+    margin-top:20px;
+}
+.info-arch{
+    margin-top: 20px;
+}
 h3{
     font-family: 'Raleway',sans-serif;
     font-size: 28px;
@@ -91,7 +97,7 @@ p{
     flex-direction: row;
     justify-content: space-evenly;
 }
-/*Contact Page*/
+/*Contact Page Extras*/
 .page-title{
     color: #f3603A;
     text-align: center;
@@ -124,12 +130,34 @@ p{
 .contact-bottom3{
     margin-top: 20px;
 }
-/*about page*/
+/*About Page Extras*/
 .Aboutme{
     margin-left: 80px;
+}
+.about-text{
+    margin-left: 400px;
 }
 .about-buttons{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
 }
+/*Resume Page Extras*/
+.Download{
+       display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.resume-skills{
+    margin-left: 30px;
+}
+.download-button{
+    text-align: center;
+}
+/*Dual Nature Extras*/
+.mission{
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
