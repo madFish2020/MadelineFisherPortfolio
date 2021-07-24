@@ -127,6 +127,21 @@ p{
 .contact-bottom{
     margin-top: 40px;
 }
+.contact-header{
+    color: white;
+}
+.contact-text{
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    font-size: 24px;
+    color: white;
+  
+}
+.contact-link{
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
 .contact-bottom3{
     margin-top: 20px;
 }
@@ -135,7 +150,8 @@ p{
     margin-left: 80px;
 }
 .about-text{
-    margin-left: 400px;
+ 
+    margin-bottom: 40px;
 }
 .about-buttons{
     display: flex;
@@ -159,5 +175,11 @@ p{
 .mission{
     margin-top: 80px;
     margin-left: 30px;
+}
+.problem{
+    clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
 }
 
